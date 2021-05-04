@@ -1,4 +1,12 @@
-### Hi there 👋
+# Fabian MARBACH
+
+Welcome on my public GitHub profile!
+Since it's just recently been set up, I'd like to kindly ask for your patience until more repositories will be added in the near future.
+Thank you!
+
+## Table of Contents
+As of now, the following repositories have been published:
+- [summaries](https://github.com/fabian-marbach/summaries): A collection of some of the summaries I wrote during the MSc UZH ETH Quantitative Finance in Zurich
 
 <!--
 **fabian-marbach/fabian-marbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
